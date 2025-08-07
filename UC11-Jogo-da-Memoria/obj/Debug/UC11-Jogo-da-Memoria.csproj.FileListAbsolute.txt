@@ -1,0 +1,10 @@
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\bin\Debug\UC11-Jogo-da-Memoria.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\bin\Debug\UC11-Jogo-da-Memoria.exe
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\bin\Debug\UC11-Jogo-da-Memoria.pdb
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11-Jogo-da-Memoria.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11_Jogo_da_Memoria.Form1.resources
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11_Jogo_da_Memoria.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11-Jogo-da-Memoria.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11-Jogo-da-Memoria.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11-Jogo-da-Memoria.exe
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Memoria\UC11-Jogo-da-Memoria\obj\Debug\UC11-Jogo-da-Memoria.pdb
